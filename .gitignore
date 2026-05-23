@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and runtime files
+*.log
+*.sqlite3
+*.db
+*.pid
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# macOS files
+.DS_Store
+
+# Environment files
+.env.local
+.env.*
+
+# Data files
+data/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.zip
+*.tar.gz

@@ -37,3 +37,13 @@ data/
 *.hdf5
 *.zip
 *.tar.gz
+
+
+# Large data and model files
+models/train_data.pkl
+models/test_data.pkl
+data/raw/creditcard.csv
+data/processed/X_train.pkl
+data/processed/y_train.pkl
+data/processed/X_test.pkl
+data/processed/y_test.pkl
